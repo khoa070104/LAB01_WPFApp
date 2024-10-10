@@ -1,0 +1,15 @@
+D:\Documents\PRN212\ProductManagement\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.deps.json
+D:\Documents\PRN212\ProductManagement\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.dll
+D:\Documents\PRN212\ProductManagement\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.pdb
+D:\Documents\PRN212\ProductManagement\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\Documents\PRN212\ProductManagement\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Documents\PRN212\ProductManagement\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.AssemblyReference.cache
+D:\Documents\PRN212\ProductManagement\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PRN212\ProductManagement\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfoInputs.cache
+D:\Documents\PRN212\ProductManagement\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfo.cs
+D:\Documents\PRN212\ProductManagement\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+D:\Documents\PRN212\ProductManagement\DataAccessObjects\obj\Debug\net8.0\DataAcce.79975846.Up2Date
+D:\Documents\PRN212\ProductManagement\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.dll
+D:\Documents\PRN212\ProductManagement\DataAccessObjects\obj\Debug\net8.0\refint\DataAccessObjects.dll
+D:\Documents\PRN212\ProductManagement\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.pdb
+D:\Documents\PRN212\ProductManagement\DataAccessObjects\obj\Debug\net8.0\ref\DataAccessObjects.dll

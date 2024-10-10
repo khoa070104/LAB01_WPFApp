@@ -1,0 +1,17 @@
+D:\Documents\PRN212\ProductManagement\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\Documents\PRN212\ProductManagement\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\Documents\PRN212\ProductManagement\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\Documents\PRN212\ProductManagement\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\Documents\PRN212\ProductManagement\Repositories\bin\Debug\net8.0\DataAccessObjects.dll
+D:\Documents\PRN212\ProductManagement\Repositories\bin\Debug\net8.0\DataAccessObjects.pdb
+D:\Documents\PRN212\ProductManagement\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Documents\PRN212\ProductManagement\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\Documents\PRN212\ProductManagement\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PRN212\ProductManagement\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\Documents\PRN212\ProductManagement\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\Documents\PRN212\ProductManagement\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Documents\PRN212\ProductManagement\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\Documents\PRN212\ProductManagement\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\Documents\PRN212\ProductManagement\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\Documents\PRN212\ProductManagement\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\Documents\PRN212\ProductManagement\Repositories\obj\Debug\net8.0\ref\Repositories.dll
